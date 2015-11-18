@@ -1,0 +1,14 @@
+{
+  "name": "jasmine-test",
+  "version": "1.0.0",
+  "description": "jasmine test with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node spec"
+  },
+  "author": "imran",
+  "license": "ISC",
+  "dependencies": {
+    "ddp": "^0.11.0"
+  }
+}
